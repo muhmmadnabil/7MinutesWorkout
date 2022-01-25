@@ -1,6 +1,6 @@
 # 7MinutesWorkout
 It is an exercises app.
-It has a BMI calculato.
+It has a BMI calculator.
 
 Android app using 
 - Kotlin
